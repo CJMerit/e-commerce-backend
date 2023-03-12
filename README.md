@@ -25,7 +25,7 @@ Step 3: use the routes to get or post any information you need
 Email me at (email goes here) for information on how to contribute
 
 ## Tests
-[Video link]()
+[Video link](https://drive.google.com/file/d/1CqGJu0_ljF-sxbnujPVjTveR8py_bnUv/view)
 
 ## Questions
 [Github](https://github.com/CJMerit/)
